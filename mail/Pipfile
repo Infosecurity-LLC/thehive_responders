@@ -1,0 +1,10 @@
+[[source]]
+url = ""
+verify_ssl = false
+
+[packages]
+socutils = {version = '==1.5.9'}
+responder-commons = {version = '==1.0.1'}
+
+[requires]
+python_version = "3.6"

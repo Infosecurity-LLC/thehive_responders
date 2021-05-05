@@ -1,0 +1,12 @@
+[[source]]
+url = ""
+verify_ssl = false
+
+[packages]
+cortexutils = {version = '==2.0.0'}
+requests = {version = '==2.22.0'}
+otrs = {version = '==2.0.2'}
+responder_commons = {version = '==1.0.0'}
+
+[requires]
+python_version = "3.6"
